@@ -1,7 +1,3 @@
-Así quedaría tu README en GitHub. Aquí está el contenido listo para copiar y pegar:
-
----
-
 ```markdown
 # Pablo A. Rubio C.
 Chief Commercial Officer · General Manager · AI & Tech Consultant · Mexico City
@@ -40,4 +36,3 @@ Pan-American Carrier · Full P&L ownership
 - pablorubiocedillo@gmail.com
 - 📍 Mexico City
 ```
-
